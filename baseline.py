@@ -1,6 +1,6 @@
 """
 Authored by Nathan Eggers
-As part of "Novel Blockchain VANET"
+As part of ...
 A research paper and student project
 involving Edgar Bowlin, David Schmidt,
 Timothy Muncy and myself
